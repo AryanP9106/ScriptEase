@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.streamlit/secrets.toml
+dataset/pages/
+dataset/processed/
+dataset/raw/
+dataset/emnist/
+dataset/emnist-gzip.zip
+dataset/personal/
